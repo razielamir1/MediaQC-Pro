@@ -1,0 +1,5 @@
+{
+  "name": "MediaQC Pro",
+  "description": "An advanced media analysis and quality control tool that replicates and enhances MediaInfo. It allows users to upload video or audio files, extracts detailed metadata, validates against common issues, and provides an intelligent QC summary. Features include a modern UI, multi-file comparison, analysis history, and various export options.",
+  "requestFramePermissions": []
+}
